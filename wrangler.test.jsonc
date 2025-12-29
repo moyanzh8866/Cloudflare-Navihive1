@@ -17,7 +17,7 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": wangyedaohang",
+      "database_name": "wangyedaohang",
       "database_id": "a4e49f07-3ad3-407a-9069-b46286fddd48"
     }
   ]
