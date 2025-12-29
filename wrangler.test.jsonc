@@ -11,14 +11,14 @@
     "AUTH_ENABLED": "true",
     "AUTH_REQUIRED_FOR_READ": "false",
     "AUTH_USERNAME": "admin",
-    "AUTH_PASSWORD": "$2a$10$Ad1Vu8l8RNdrMn5RPj0pjeLQHh3sTd.OyqjNKFrWTNT/cj1DzkwAi",
-    "AUTH_SECRET": "navihive-test-secret-2025"
+    "AUTH_PASSWORD": "$2b$10$eX4k9Vq8uLpO2jH7nC5mEeD4f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u",
+    "AUTH_SECRET": "U0aMw7ZNQTqFD56v85IkOkiBz0X3Ao1p"
   },
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "navihive-test-db",
-      "database_id": "86de3963-705e-4baf-b454-e485de8293eb"
+      "database_name": wangyedaohang",
+      "database_id": "a4e49f07-3ad3-407a-9069-b46286fddd48"
     }
   ]
 }
