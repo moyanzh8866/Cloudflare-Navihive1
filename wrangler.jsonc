@@ -24,7 +24,7 @@
     "vars": {
         "AUTH_ENABLED": "true",
         "AUTH_USERNAME": "admin",
-        "AUTH_PASSWORD": "admin",
-        "AUTH_SECRET": "admin"
+        "AUTH_PASSWORD": "$2b$10$eX4k9Vq8uLpO2jH7nC5mEeD4f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u",
+        "AUTH_SECRET": "U0aMw7ZNQTqFD56v85IkOkiBz0X3Ao1p"
     }
 }
